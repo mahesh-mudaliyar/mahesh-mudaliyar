@@ -1,13 +1,13 @@
 ## Hi there 👋
 # 💫 About Me:
 
-- 🔭 I’m currently working on :
+- 🔭 I’m currently working on: 
 Developing a comprehensive app, which includes features like customizable tracking parameters, gamification, and seamless API integrations.
-- 👯 I’m looking to collaborate on:
+- 👯 I’m looking to collaborate on: 
 Innovative projects involving automation, API integration, and building custom software solutions that improve productivity and efficiency for businesses.
-- 🤔 I’m looking for help with :
+- 🤔 I’m looking for help with: 
 Exploring advanced cloud deployment strategies and scaling applications for high-traffic environments to improve system performance.
-- 💬 Ask me about ...
+- 💬 Ask me about: 
 API integrations, CRM solutions, and automation tools like Twilio, Zapier, Make.com, Google Data Studio and Power BI.
 - ⚡ Fun fact: 
 I once built a Google Studio plugin that connected directly to Facebook Insights API within just a week—it became a key solution for streamlined data reporting!
